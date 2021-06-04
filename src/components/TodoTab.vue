@@ -35,6 +35,7 @@ const emit = defineEmit(['update:modelValue'])
     flex: 1;
     padding: 1rem 1.5rem;
     color: $gray;
+    font-weight: bold;
     background: #FFFFFF;
     border-bottom: 2px solid #EFEFEF;
     transition-property: border-color, color;
